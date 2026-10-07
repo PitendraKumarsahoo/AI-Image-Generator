@@ -1,0 +1,6 @@
+{
+  "name": "AI Image Generator",
+  "description": "Generate stunning images from text prompts using Puter.js with customizable dimensions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
